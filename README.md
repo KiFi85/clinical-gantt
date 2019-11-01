@@ -11,4 +11,4 @@ to resemble the dummy file. For example, if no sponsor is included, it's display
 this was to serve as a template and was written with a specific number of projects in mind.
 
 # Screenshot
-<img src="img/example.png" alt="example" height="100%" width="100%">   
+![gui-screenshot](example.png)
