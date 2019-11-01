@@ -1,0 +1,12 @@
+sponsor,study,shipment,start,end,n,perc_complete,deadline
+Sponsor1,diabetes,1,27-Aug-19,17-Oct-19,448,0.772321429,31-Oct-19
+Sponsor2,pneumo,1,15-Dec-19,15-Mar-20,660,0,30-Mar-20
+Sponsor2,pneumo,2,25-May-20,02-Jul-20,420,0,
+Sponsor2,pneumo,3,20-Jul-20,18-Sep-20,700,0,15-Sep-20
+Sponsor3,epi,1,12-Sep-19,15-Dec-19,200,0.256743738,
+Sponsor4,Sp4_Study,1,27-Jan-20,07-Mar-20,865,0,31-Aug-20
+Sponsor4,Sp4_Study,2,30-Jun-20,09-Aug-20,336,0,
+Sponsor5,Sp5_Study,1,15-Jun-20,30-Jul-20,336,0,
+Sponsor5,Sp5_Study,2,15-Jun-21,15-Aug-21,525,0,
+Sponsor6,Sp6_Study,1,15-Jun-20,14-Oct-20,699,0,
+Sponsor6,Sp6_Study,1,15-Feb-21,28-Apr-21,1100,0,
