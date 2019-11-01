@@ -10,5 +10,8 @@ This was thrown together pretty quickly. There is very little in the way of exce
 to resemble the dummy file. For example, if no sponsor is included, it's displayed as 'nan' on the Y axis. The aim of 
 this was to serve as a template and was written with a specific number of projects in mind.
 
+The GUI was written using a high resolution display. Fonts etc may look different on lower resolution displays. 
+The saved image shouldn't be affected.
+
 # Screenshot
 ![gui-screenshot](example.png)
